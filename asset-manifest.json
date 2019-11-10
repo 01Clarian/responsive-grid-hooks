@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/responsive-grid-hooks/static/css/main.b100e6da.chunk.css",
+    "main.js": "/responsive-grid-hooks/static/js/main.a72014cd.chunk.js",
+    "main.js.map": "/responsive-grid-hooks/static/js/main.a72014cd.chunk.js.map",
+    "runtime-main.js": "/responsive-grid-hooks/static/js/runtime-main.aa166665.js",
+    "runtime-main.js.map": "/responsive-grid-hooks/static/js/runtime-main.aa166665.js.map",
+    "static/js/2.cbf5c692.chunk.js": "/responsive-grid-hooks/static/js/2.cbf5c692.chunk.js",
+    "static/js/2.cbf5c692.chunk.js.map": "/responsive-grid-hooks/static/js/2.cbf5c692.chunk.js.map",
+    "index.html": "/responsive-grid-hooks/index.html",
+    "precache-manifest.c000cbc7c725a81f8a8182dfaa1634d5.js": "/responsive-grid-hooks/precache-manifest.c000cbc7c725a81f8a8182dfaa1634d5.js",
+    "service-worker.js": "/responsive-grid-hooks/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/responsive-grid-hooks/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa166665.js",
+    "static/js/2.cbf5c692.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.a72014cd.chunk.js"
+  ]
+}
